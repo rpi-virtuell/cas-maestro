@@ -2,7 +2,7 @@
 /*
 Plugin Name: CAS Maestro
 Plugin URL: http://nme.ist.utl.pt
-Description: CAS plugin with LDAP integration
+Description: CAS plugin with LDAP integration (fixed)
 Version: 1.1.3
 Author: NME - Núcleo de Multimédia e E-Learning.
 Author URI: http://nme.ist.utl.pt
