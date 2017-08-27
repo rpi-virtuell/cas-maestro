@@ -1,10 +1,10 @@
 === CAS Maestro ===
-Contributors: vaurdan, jpargana, ricardobaeta, sandrof
+Contributors: vaurdan, jpargana, ricardobaeta, sandrof, johappel
 Donate link: https://dsi.tecnico.ulisboa.pt
 Tags: cas, maestro, central, centralized, authentication, auth, service, system, server, phpCAS, integration, ldap
 Requires at least: 3.5
 Tested up to: 4.0
-Stable tag: 1.1.3
+Stable tag: 1.1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -74,7 +74,8 @@ By default, the capability is `edit_posts`.
 3. Mailing options
 
 == Changelog ==
-
+= 1.1.4 =
+* Fixed decrepapted level
 = 1.1.3 =
 * Users with 'edit_posts' capability can now edit only the authorized users (this can be changed using a filter - see FAQ)
 
