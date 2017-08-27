@@ -4,7 +4,7 @@ Donate link: https://dsi.tecnico.ulisboa.pt
 Tags: cas, maestro, central, centralized, authentication, auth, service, system, server, phpCAS, integration, ldap
 Requires at least: 3.5
 Tested up to: 4.8.1
-Stable tag: 1.1.4
+Stable tag: 1.1.4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
