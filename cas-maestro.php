@@ -7,6 +7,8 @@ Version: 1.1.3
 Author: NME - Núcleo de Multimédia e E-Learning.
 Author URI: http://nme.ist.utl.pt
 Text Domain: CAS_Maestro
+GitHub Plugin URI: https://github.com/rpi-virtuell/cas-maestro
+GitHub Branch:     master
 */
 
 /*
